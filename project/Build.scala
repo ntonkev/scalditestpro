@@ -5,7 +5,7 @@ import play.Project._
 object ApplicationBuild extends Build {
 
   libraryDependencies ++= Seq(
-    "com.github.scaldi" %% "scaldi-play" % "0.2.2"
+
   )
 
   val appName         = "scalditestpro"
